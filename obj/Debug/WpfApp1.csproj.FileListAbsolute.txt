@@ -1,0 +1,15 @@
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\TheNextCar\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
